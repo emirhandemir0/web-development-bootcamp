@@ -1,0 +1,66 @@
+/* * {
+    color: pink;
+} */
+
+h1 {
+    color: purple;
+}
+
+body {
+    background-color: #fefae0;
+    color: #606c38;
+}
+
+button {
+    font-size: 30px;
+    background-color: palegoldenrod;
+}
+
+#signup {
+    background-color: red;
+}
+
+.tag {
+    background-color: #84d923;
+    color: #fefae0;
+    font-size: 15px;
+}
+
+li a {
+    color: darkolivegreen;
+}
+
+span a {
+    color: darkblue;
+}
+
+input+button {
+    background-color: pink;
+}
+
+h2+button {
+    background-color: magenta;
+    font-size: 20px;
+}
+
+footer>a {
+    color: red;
+}
+
+button:active {
+    background-color: yellowgreen;
+}
+
+h2::first-letter {
+    font-size: 50px;
+    color: red;
+}
+
+p::first-line {
+    font-style: italic;
+}
+
+p::selection {
+    background-color: #84d923;
+    color: #fefae0;
+}

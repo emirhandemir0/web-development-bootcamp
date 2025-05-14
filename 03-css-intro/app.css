@@ -1,0 +1,19 @@
+h2 {
+    color: teal;
+    background-color: palegoldenrod;
+}
+
+button {
+    background-color: rgb(89, 85, 92);
+    color: magenta;
+}
+
+p {
+    color: green;
+    font-size: 20px;
+    background-color: lightyellow;
+}
+
+body {
+    background-color: #000;
+}
