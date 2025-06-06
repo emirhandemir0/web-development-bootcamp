@@ -1,0 +1,15 @@
+div {
+    width: 50%;
+    height: 50%;
+}
+
+section {
+    width: 800px;
+    height: 800px;
+    background-color: lightcoral;
+}
+
+p {
+    font-size: 2em;
+    margin: 1em;
+}
